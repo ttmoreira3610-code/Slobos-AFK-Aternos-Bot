@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PRETALANDIA.aternos.me:38302",
+    "ip": "PRETALANDIA.aternos.me",
     "port": 38302,
     "version": "",
     "try-creative": false
